@@ -1,0 +1,523 @@
+{
+    "Scrolls": [
+        {
+            "Name": "Scroll for Face Accessory for Avoidability",
+            "Percent": 60,
+            "Price": "35mil"
+        },
+        {
+            "Name": "Dark Scroll for Overall Armor for DEX",
+            "Percent": 30,
+            "Price": "6mil"
+        },
+        {
+            "Name": "Dark Scroll for Wand for Magic Att.",
+            "Percent": 30,
+            "Price": "30mil"
+        },
+        {
+            "Name": "Scroll for Helmet for INT",
+            "Percent": 60,
+            "Price": "7mil"
+        },
+        {
+            "Name": "Dark Scroll for Helmet for INT",
+            "Percent": 70,
+            "Price": "6mil"
+        },
+        {
+            "Name": "Scroll for Helmet for DEX",
+            "Percent": 60,
+            "Price": "4mil"
+        },
+        {
+            "Name": "Scroll for Shield for Magic Att.",
+            "Percent": 60,
+            "Price": "100mil"
+        },
+        {
+            "Name": "Dark Scroll for Shield for Weapon Att.",
+            "Percent": 30,
+            "Price": "7mil"
+        },
+        {
+            "Name": "Dark Scroll for Pole Arm for ATT",
+            "Percent": 30,
+            "Price": "3mil"
+        },
+        {
+            "Name": "Dark Scroll for Overall Armor for INT",
+            "Percent": 70,
+            "Price": "5mil"
+        },
+        {
+            "Name": "Dark Scroll for Shield for Magic Att.",
+            "Percent": 30,
+            "Price": "39mil"
+        },
+        {
+            "Name": "Dark Scroll for Cape for INT",
+            "Percent": 30,
+            "Price": "1.5mil"
+        },
+        {
+            "Name": "Dark Scroll for Two-Handed Sword for ATT",
+            "Percent": 30,
+            "Price": "6mil"
+        },
+        {
+            "Name": "Chaos Scroll",
+            "Percent": 60,
+            "Price": "445mil"
+        },
+        {
+            "Name": "Scroll for Shield for Weapon Att.",
+            "Percent": 60,
+            "Price": "13mil"
+        },
+        {
+            "Name": "Scroll for Spear for ATT",
+            "Percent": 60,
+            "Price": "1mil"
+        },
+        {
+            "Name": "Scroll for Wand for Magic Att.",
+            "Percent": 100,
+            "Price": "200mil"
+        },
+        {
+            "Name": "Dark Scroll for Overall Armor for LUK",
+            "Percent": 30,
+            "Price": "4mil"
+        },
+        {
+            "Name": "Scroll for Shield for Magic Att.",
+            "Percent": 10,
+            "Price": "10mil"
+        },
+        {
+            "Name": "Scroll for Shield for Weapon Att.",
+            "Percent": 10,
+            "Price": "1.5mil"
+        },
+        {
+            "Name": "Scroll for Bottomwear for DEX",
+            "Percent": 60,
+            "Price": "5mil"
+        },
+        {
+            "Name": "Dark Scroll for Bottomwear for DEX",
+            "Percent": 30,
+            "Price": "6mil"
+        },
+        {
+            "Name": "Scroll for Overall Armor for INT",
+            "Percent": 60,
+            "Price": "6mil"
+        },
+        {
+            "Name": "Scroll for Earring for INT",
+            "Percent": 10,
+            "Price": "4mil"
+        },
+        {
+            "Name": "Scroll for Overall Armor for INT",
+            "Percent": 10,
+            "Price": "7mil"
+        },
+        {
+            "Name": "Dark Scroll for Earring for DEX",
+            "Percent": 30,
+            "Price": "13mil"
+        },
+        {
+            "Name": "Scroll for Crossbow for ATT",
+            "Percent": 100,
+            "Price": "7mil"
+        },
+        {
+            "Name": "Scroll for Spear for ATT",
+            "Percent": 100,
+            "Price": "30mil"
+        },
+        {
+            "Name": "Scroll for Knuckler for Attack",
+            "Percent": 100,
+            "Price": "20mil"
+        },
+        {
+            "Name": "Scroll for Shoes for Jump",
+            "Percent": 60,
+            "Price": "1mil"
+        },
+        {
+            "Name": "Scroll for Cape for DEX",
+            "Percent": 60,
+            "Price": "1.5mil"
+        },
+        {
+            "Name": "Scroll for Wand for Magic Att.",
+            "Percent": 10,
+            "Price": "2mil"
+        },
+        {
+            "Name": "Dark Scroll for Gloves for ATT",
+            "Percent": 30,
+            "Price": "15mil"
+        },
+        {
+            "Name": "Dark Scroll for Overall Armor for INT",
+            "Percent": 30,
+            "Price": "28mil"
+        },
+        {
+            "Name": "Dark Scroll for Gloves for Magic Att.",
+            "Percent": 30,
+            "Price": "40mil"
+        },
+        {
+            "Name": "Dark Scroll for Gloves for Magic Att.",
+            "Percent": 70,
+            "Price": "9mil"
+        },
+        {
+            "Name": "Dark Scroll for Spear for ATT",
+            "Percent": 30,
+            "Price": "11mil"
+        },
+        {
+            "Name": "Scroll for Two-handed Sword for ATT",
+            "Percent": 60,
+            "Price": "1mil"
+        },
+        {
+            "Name": "Scroll for Claw for ATT",
+            "Percent": 60,
+            "Price": "2mil"
+        },
+        {
+            "Name": "Clean Slate Scroll",
+            "Percent": 3,
+            "Price": "150mil"
+        },
+        {
+            "Name": "Scroll for Claw for ATT",
+            "Percent": 100,
+            "Price": "50mil"
+        },
+        {
+            "Name": "Dark Scroll for Earring for INT",
+            "Percent": 30,
+            "Price": "45mil"
+        },
+        {
+            "Name": "Dark Scroll for Eye Accessory for INT",
+            "Percent": 30,
+            "Price": "7mil"
+        },
+        {
+            "Name": "Dark Scroll for Helmet for INT",
+            "Percent": 30,
+            "Price": "7mil"
+        },
+        {
+            "Name": "Dark Scroll for One-Handed Sword for Magic Att.",
+            "Percent": 30,
+            "Price": "7mil"
+        },
+        {
+            "Name": "Dark Scroll for Topwear for LUK",
+            "Percent": 30,
+            "Price": "4mil"
+        },
+        {
+            "Name": "Dark Scroll for Topwear for LUK",
+            "Percent": 70,
+            "Price": "3mil"
+        },
+        {
+            "Name": "Dark Scroll for Topwear for STR",
+            "Percent": 30,
+            "Price": "1.5mil"
+        },
+        {
+            "Name": "Scroll for Staff for Magic Att.",
+            "Percent": 60,
+            "Price": "1.3mil"
+        },
+        {
+            "Name": "Scroll for Wand for Magic Att.",
+            "Percent": 100,
+            "Price": "300mil"
+        },
+        {
+            "Name": "Dark SCroll for Shield for Magic Att.",
+            "Percent": 70,
+            "Price": "40mil"
+        },
+        {
+            "Name": "Dark Scroll for Claw for ATT",
+            "Percent": 30,
+            "Price": "30mil"
+        },
+        {
+            "Name": "Dark Scroll for Face Accessory for Avoidability",
+            "Percent": 70,
+            "Price": "13mil"
+        },
+        {
+            "Name": "Dark Scroll for Face Accessory for Avoidability",
+            "Percent": 30,
+            "Price": "13mil"
+        },
+        {
+            "Name": "Scroll for Overall for STR",
+            "Percent": 30,
+            "Price": "12mil"
+        },
+        {
+            "Name": "Dark Scroll for Knuckle for ATT",
+            "Percent": 30,
+            "Price": "9mil"
+        },
+        {
+            "Name": "Dark scroll for Earring for DEX",
+            "Percent": 70,
+            "Price": "3mil"
+        },
+        {
+            "Name": "Dark Scroll for Crossbow for ATT",
+            "Percent": 30,
+            "Price": "4mil"
+        },
+        {
+            "Name": "Scroll for Overall Armor for DEX",
+            "Percent": 60,
+            "Price": "2mil"
+        },
+        {
+            "Name": "Dark Scroll for Gloves for ATT",
+            "Percent": 70,
+            "Price": "3mil"
+        },
+        {
+            "Name": "Scroll for Gloves for Magic Att.",
+            "Percent": 10,
+            "Price": "9mil"
+        },
+        {
+            "Name": "Dark scroll for Earring for INT",
+            "Percent": 70,
+            "Price": "1mil"
+        },
+        {
+            "Name": "Dark Scroll for Shield for Weapon Att.",
+            "Percent": 70,
+            "Price": "7mil"
+        },
+        {
+            "Name": "Scroll for Earring for INT",
+            "Percent": 60,
+            "Price": "2mil"
+        },
+        {
+            "Name": "Dark Scroll for Shoes for Jump",
+            "Percent": 30,
+            "Price": "5mil"
+        },
+        {
+            "Name": "Dark Scroll for Gun for Attack",
+            "Percent": 30,
+            "Price": "6mil"
+        },
+        {
+            "Name": "Dark Scroll for Overall Armor for DEX",
+            "Percent": 70,
+            "Price": "1mil"
+        },
+        {
+            "Name": "Dark Scroll for One-Handed Sword for ATT",
+            "Percent": 30,
+            "Price": "10mil"
+        },
+        {
+            "Name": "Scroll for Overall for STR",
+            "Percent": 60,
+            "Price": "1mil"
+        },
+        {
+            "Name": "Scroll for Overall for STR",
+            "Percent": 70,
+            "Price": "1mil"
+        },
+        {
+            "Name": "",
+            "Percent": ,
+            "Price": ""
+        },
+        {
+            "Name": "",
+            "Percent": ,
+            "Price": ""
+        },
+        {
+            "Name": "",
+            "Percent": ,
+            "Price": ""
+        },
+        {
+            "Name": "",
+            "Percent": ,
+            "Price": ""
+        },
+        {
+            "Name": "",
+            "Percent": ,
+            "Price": ""
+        },
+        {
+            "Name": "",
+            "Percent": ,
+            "Price": ""
+        },
+        {
+            "Name": "",
+            "Percent": ,
+            "Price": ""
+        },
+        {
+            "Name": "",
+            "Percent": ,
+            "Price": ""
+        },
+        {
+            "Name": "",
+            "Percent": ,
+            "Price": ""
+        },
+    ],
+    "Weapons": [
+        {
+            "Sky Ski": [
+                {
+                    "Weapon Att.": 94,
+                    "Accuracy": 9,
+                    "Price": "50Mil"
+                },
+                {
+                
+                }
+            ],
+            "Elemental Wand": [
+                {
+                    "True Magic Att.": 152,
+                    "Price": "85mil"
+                },
+                {
+                    "True Magic Att.": 151,
+                    "Price": "75mil"
+                },
+                {
+                    "True Magic Att.": 150,
+                    "Price": "65mil"
+                },
+                {
+                    "True Magic Att.": 149,
+                    "Price": "55mil"
+                }
+            ],
+            "Red Craven": [
+                {
+                    "Weapon Att.": 55,
+                    "LUK": 12,
+                    "Price": "85mil"
+                },
+                {
+                    "Weapon Att.": 55,
+                    "LUK": 11,
+                    "Price": "80mil"
+                },
+                {
+                    "Weapon Att.": 55,
+                    "LUK": 10,
+                    "Price": "75mil"
+                },
+                {
+                    "Weapon Att.": 55,
+                    "LUK": 9,
+                    "Price": "65mil"
+                },
+                {
+                    "Weapon Att.": 55,
+                    "LUK": 8,
+                    "Price": "55mil"
+                },
+                {
+                    "Weapon Att.": 56,
+                    "LUK": 7,
+                    "Price": "70mil"
+                },
+                {
+                    "Weapon Att.": 56,
+                    "LUK": 11,
+                    "Price": "180mil"
+                },
+                {
+                    "Weapon Att.": 56,
+                    "LUK": 9,
+                    "Price": "140mil"
+                },
+                {
+                    "Weapon Att.": 56,
+                    "LUK": 8,
+                    "Price": "120mil"
+                }
+            ],
+            "Stonetooth Sword": [
+                {
+                    "Weapon Att.": 105,
+                    "Price": "80mil"
+                },
+                {
+                    "Weapon Att.": 106,
+                    "Price": "110mil"
+                }
+            ],
+            "Crystal Ilbi Throwing-Stars": {
+                "Attack": 29,
+                "Price": "250mil"
+            }
+        }
+    ],
+    "Usable Buffs": [
+        {
+            "Name": "Onyx Apple",
+            "Price": "12mil"
+        },
+        {
+            "Name": "Heartstopper",
+            "Price": "500k"
+        },
+        {
+            "Name": "Narician's Demon Elixir",
+            "Price": "55mil"
+        },
+        {
+            "Name": "Ssiws Cheese",
+            "Price": "2mil"
+        },
+        {
+            "Name": "Subani's Mystic Cauldron",
+            "Price": "6mil"
+        },
+        {
+
+        }
+    ],
+    "Ores and Gems": [
+        {
+            "Name": "Black Crystal",
+            "Price": "1mil"
+        }
+    ]
+}
