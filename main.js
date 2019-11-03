@@ -26,6 +26,19 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/assets/assets.component.html":
+/*!************************************************************************************!*\
+  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/assets/assets.component.html ***!
+  \************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"body\">\n    <div class=\"mainBody\">\n        <a href=\"../../assets/aboutMeBackgroundImage.png\">aboutMeBackgroundImage.png</a>\n        <a href=\"../../assets/Adobe_Photoshop_CS6.zip\">Adobe_Photoshop_CS6.zip</a>\n        <a href=\"../../assets/AdobePS.png\">AdobePS.png</a>\n        <a href=\"../../assets/backgroundImage.jpg\">/backgroundImage.jpg</a>\n        <a href=\"../../assets/backgroundimages.zip\">backgroundimages.zip</a>\n        <a href=\"../../assets/blueBirdNaruto.jpg\">blueBirdNaruto.jpg</a>\n        <a href=\"../../assets/coms101BackgroundImage.jpg\">coms101BackgroundImage.jpg</a>\n        <a href=\"../../assets/deepBlueSky.png\">deepBlueSky.png</a>\n        <a href=\"../../assets/dropDownMenu.png\">dropDownMenu.png</a>\n        <a href=\"../../assets/eng134BackgroundImage.jpg\">eng134BackgroundImage.jpg</a>\n        <a href=\"../../assets/facebookLogo.png\">facebookLogo.png</a>\n        <a href=\"../../assets/freeWrite.png\">freeWrite.png</a>\n        <a href=\"../../assets/homeImage.png\">homeImage.png</a>\n        <a href=\"../../assets/instagramLogo.png\">instagramLogo.png</a>\n        <a href=\"../../assets/linkedinLogo.png\">linkedinLogo.png</a>\n        <a href=\"../../assets/lofiHipHop.png\">lofiHipHop.png</a>\n        <a href=\"../../assets/lofiHipHopBlur.png\">lofiHipHopBlur.png</a>\n        <a href=\"../../assets/mountains.jpg\">mountains.jpg</a>\n        <a href=\"../../assets/personalProjectsBackgroundImage.jpg\">personalProjectsBackgroundImage.jpg</a>\n        <a href=\"../../assets/resonate.png\">resonate.png</a>\n        <a href=\"../../assets/resume.pdf\">resume.pdf</a>\n        <a href=\"../../assets/resumeBackgroundImage.jpg\">resumeBackgroundImage.jpg</a>\n        <a href=\"../../assets/robinhoodBackground.png\">robinhoodBackground.png</a>\n        <a href=\"../../assets/robinhoodLogo.png\">robinhoodLogo.png</a>\n        <a href=\"../../assets/SullivanXiongProm.jpg\">SullivanXiongProm.jpg</a>\n        <a href=\"../../assets/youtubeLogo.png\">youtubeLogo.png</a>\n        <a href=\"../../assets/genTest.sh\">genTest.sh</a>\n    </div>\n</div>\n");
+
+/***/ }),
+
 /***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/createsession/createsession.component.html":
 /*!**************************************************************************************************!*\
   !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/createsession/createsession.component.html ***!
@@ -74,7 +87,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<nav class=\"nav-bar\">\n  <a id=\"index\" routerLink=\"/\"><img class=\"nav-bar home-img\" src=\"/assets/homeImage.png\" alt=\"homeImage\"></a>\n  <div class=\"dropDownMenu\">\n      <button class=\"dDMIcon\"></button>\n      <div class=\"otherContents\">\n          <a class=\"leftNav\" id=\"aboutMe\" routerLink=\"/aboutMe\">About Me</a>\n          <a class=\"leftNav\" id=\"personalProjects\" routerLink=\"/personalProjects\">Personal Projects</a>\n          <a class=\"leftNav\" id=\"resume\" routerLink=\"/resume\">Resume</a>\n          <a class=\"rightNav\" id=\"schoolE-Portfolios\" routerLink=\"/schoolEPortfolios\">School E-Portfolios</a>\n          <a class=\"rightNav\" id=\"N/A\" routerLink=\"/\">N/A</a>\n          <a class=\"rightNav\" id=\"robinhood\" routerLink=\"/robinhood\">Robinhood</a>\n      </div>\n  </div>\n</nav>");
+/* harmony default export */ __webpack_exports__["default"] = ("<nav class=\"nav-bar\">\n  <a id=\"index\" routerLink=\"/\"><img class=\"nav-bar home-img\" src=\"/assets/homeImage.png\" alt=\"homeImage\"></a>\n  <div class=\"dropDownMenu\">\n      <button class=\"dDMIcon\"></button>\n      <div class=\"otherContents\">\n          <a class=\"leftNav\" id=\"aboutMe\" href=\"../about-me/about-me.component.html\" routerLink=\"/aboutMe\">About Me</a>\n          <a class=\"leftNav\" id=\"personalProjects\" href=\"../personal-projects/personal-projects.component.html\" routerLink=\"/personalProjects\">Personal Projects</a>\n          <a class=\"leftNav\" id=\"resume\" href=\"../resume/resume.component.html\" routerLink=\"/resume\">Resume</a>\n          <a class=\"rightNav\" id=\"schoolE-Portfolios\" href=\"../schooleportfolios/schooleportfolios.component.html\" routerLink=\"/schoolEPortfolios\">School E-Portfolios</a>\n          <a class=\"rightNav\" id=\"N/A\" href=\"\" routerLink=\"/\">N/A</a>\n          <a class=\"rightNav\" id=\"robinhood\" href=\"../robinhood/robinhood.component.html\" routerLink=\"/robinhood\">Robinhood</a>\n      </div>\n  </div>\n</nav>");
 
 /***/ }),
 
@@ -450,6 +463,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _resume_resume_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./resume/resume.component */ "./src/app/resume/resume.component.ts");
 /* harmony import */ var _schooleportfolios_schooleportfolios_component__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./schooleportfolios/schooleportfolios.component */ "./src/app/schooleportfolios/schooleportfolios.component.ts");
 /* harmony import */ var _robinhood_robinhood_component__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./robinhood/robinhood.component */ "./src/app/robinhood/robinhood.component.ts");
+/* harmony import */ var _assets_assets_component__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./assets/assets.component */ "./src/app/assets/assets.component.ts");
+
 
 
 
@@ -469,7 +484,8 @@ var routes = [
     { path: "schoolEPortfolios", component: _schooleportfolios_schooleportfolios_component__WEBPACK_IMPORTED_MODULE_9__["SchooleportfoliosComponent"] },
     { path: "robinhood", component: _robinhood_robinhood_component__WEBPACK_IMPORTED_MODULE_10__["RobinhoodComponent"] },
     { path: "createSession", component: _createsession_createsession_component__WEBPACK_IMPORTED_MODULE_3__["CreatesessionComponent"] },
-    { path: "createSession/liveVideoSession", component: _createsession_live_video_session_live_video_session_component__WEBPACK_IMPORTED_MODULE_1__["LiveVideoSessionComponent"] }
+    { path: "createSession/liveVideoSession", component: _createsession_live_video_session_live_video_session_component__WEBPACK_IMPORTED_MODULE_1__["LiveVideoSessionComponent"] },
+    { path: "assets", component: _assets_assets_component__WEBPACK_IMPORTED_MODULE_11__["AssetsComponent"] }
 ];
 var AppRoutingModule = /** @class */ (function () {
     function AppRoutingModule() {
@@ -580,6 +596,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _createsession_createsession_component__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./createsession/createsession.component */ "./src/app/createsession/createsession.component.ts");
 /* harmony import */ var _home_home_component__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./home/home.component */ "./src/app/home/home.component.ts");
 /* harmony import */ var _createsession_live_video_session_live_video_session_component__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./createsession/live-video-session/live-video-session.component */ "./src/app/createsession/live-video-session/live-video-session.component.ts");
+/* harmony import */ var _assets_assets_component__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./assets/assets.component */ "./src/app/assets/assets.component.ts");
+
 
 
 
@@ -611,6 +629,7 @@ var AppModule = /** @class */ (function () {
                 _createsession_createsession_component__WEBPACK_IMPORTED_MODULE_12__["CreatesessionComponent"],
                 _home_home_component__WEBPACK_IMPORTED_MODULE_13__["HomeComponent"],
                 _createsession_live_video_session_live_video_session_component__WEBPACK_IMPORTED_MODULE_14__["LiveVideoSessionComponent"],
+                _assets_assets_component__WEBPACK_IMPORTED_MODULE_15__["AssetsComponent"],
             ],
             imports: [
                 _angular_platform_browser__WEBPACK_IMPORTED_MODULE_2__["BrowserModule"],
@@ -622,6 +641,53 @@ var AppModule = /** @class */ (function () {
         })
     ], AppModule);
     return AppModule;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/app/assets/assets.component.css":
+/*!*********************************************!*\
+  !*** ./src/app/assets/assets.component.css ***!
+  \*********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (".body {\n    margin: 0;\n    width: 100vw;\n    height: 90vh;\n    background: white;\n    font-family: 'Oswald', sans-serif;\n    background-size: cover;\n}\n\n.mainBody {\n    margin-top: 8vh;\n}\n\na {\n    margin-left: 5vw;\n    margin-top: 10px;\n    display: block;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvYXNzZXRzL2Fzc2V0cy5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0lBQ0ksU0FBUztJQUNULFlBQVk7SUFDWixZQUFZO0lBQ1osaUJBQWlCO0lBQ2pCLGlDQUFpQztJQUNqQyxzQkFBc0I7QUFDMUI7O0FBRUE7SUFDSSxlQUFlO0FBQ25COztBQUVBO0lBQ0ksZ0JBQWdCO0lBQ2hCLGdCQUFnQjtJQUNoQixjQUFjO0FBQ2xCIiwiZmlsZSI6InNyYy9hcHAvYXNzZXRzL2Fzc2V0cy5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmJvZHkge1xuICAgIG1hcmdpbjogMDtcbiAgICB3aWR0aDogMTAwdnc7XG4gICAgaGVpZ2h0OiA5MHZoO1xuICAgIGJhY2tncm91bmQ6IHdoaXRlO1xuICAgIGZvbnQtZmFtaWx5OiAnT3N3YWxkJywgc2Fucy1zZXJpZjtcbiAgICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xufVxuXG4ubWFpbkJvZHkge1xuICAgIG1hcmdpbi10b3A6IDh2aDtcbn1cblxuYSB7XG4gICAgbWFyZ2luLWxlZnQ6IDV2dztcbiAgICBtYXJnaW4tdG9wOiAxMHB4O1xuICAgIGRpc3BsYXk6IGJsb2NrO1xufSJdfQ== */");
+
+/***/ }),
+
+/***/ "./src/app/assets/assets.component.ts":
+/*!********************************************!*\
+  !*** ./src/app/assets/assets.component.ts ***!
+  \********************************************/
+/*! exports provided: AssetsComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AssetsComponent", function() { return AssetsComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+
+
+var AssetsComponent = /** @class */ (function () {
+    function AssetsComponent() {
+    }
+    AssetsComponent.prototype.ngOnInit = function () {
+    };
+    AssetsComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+            selector: 'app-assets',
+            template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./assets.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/assets/assets.component.html")).default,
+            styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./assets.component.css */ "./src/app/assets/assets.component.css")).default]
+        }),
+        tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [])
+    ], AssetsComponent);
+    return AssetsComponent;
 }());
 
 
