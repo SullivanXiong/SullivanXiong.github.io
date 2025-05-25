@@ -1,9 +1,0 @@
-default menu.c32
-prompt 0
-timeout 300
-MENU TITLE PXE Menu
-
-LABEL centos7_x86_64
-MENU LABEL CentOS 7 x86_64
-KERNEL netboot/vmlinuz
-APPEND initrd=netboot/initrd.img devfs=nomount ip=dhcp inst.repo=http://mirror.centos.org/centos/7/os/x86_64/ ks=https://SullivanXiong.github.io/kickstarter.cfg
